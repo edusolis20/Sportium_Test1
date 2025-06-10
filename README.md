@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sportium_Test1 ✅
 
 Panel de pruebas automatizadas para validar el funcionamiento de acciones dentro de la página de Sportium (versión prototipo).
@@ -30,3 +31,6 @@ La aplicación está desplegada en Streamlit y puede usarse sin instalar nada:
 2. Conecta tu cuenta de GitHub
 3. Selecciona este repositorio y el archivo `Login_Streamlit.py`
 4. ¡Listo! Se generará un enlace web para compartir.
+=======
+# Sportium_Test1
+>>>>>>> 30b3cccbbedbc5b913c4fee3997f6548f9a9bfe5
